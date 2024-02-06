@@ -8,4 +8,5 @@ jobs:
     steps:
     - name: Say Hello
       run: echo "Hello, World!"
+    - name: Sleep for 1 min
       run: sleep 60
